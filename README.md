@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I'm currently working on my project Parcelz and working as Backend developer.
-- I'm learning Golang
+- I'm learning Golang - i think that this is more productive language for me right now. 
 - Pull of my technologies: Go, Python, Docker, PostgreSQL, REST, gRPC, ngrok, JS.
 
 <!--
