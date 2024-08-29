@@ -2,7 +2,7 @@
 
 - I'm currently working on my project Parcelz and working as Backend developer.
 - I'm learning Golang - I think that this is the most productive language for me right now. 
-- Pull of my technologies: Go, Python, Docker, PostgreSQL, REST, gRPC, ngrok, JS.
+- Pull of my technologies: Go, Python, Docker, PostgreSQL, REST, gRPC, ngrok, JS, bash, Linux. (trying to learning DevOps too, it's very interesting)
 
 <!--
 **piftai/piftai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
