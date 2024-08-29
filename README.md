@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- I'm currently working on my project Parcelz and working as Backend developer.
+- I'm learning Golang
+- Pull of my technologies: Go, Python, Docker, PostgreSQL, REST, gRPC, ngrok, JS.
+
 <!--
 **piftai/piftai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
